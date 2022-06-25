@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kynhe\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kynhe\\.nuget\\packages"
+    ]
+  }
+}
