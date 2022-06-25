@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xFsezkELnOG6Op83ihRWkDYgRXN/Uk7RHKSrKb4pvb9W2Ocis8EK3HlcnkI8JmeJ4vl24re/wBS8PJI3Gtjfbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kynhe\\Downloads\\Documents\\C# Project\\ConsoleApp-SQL-Server-Connection\\DbConnection\\DbConnection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kynhe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}
